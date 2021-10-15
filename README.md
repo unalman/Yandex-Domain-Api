@@ -1,5 +1,4 @@
-# Yandex-Domain-Api
-Yandex Domain Api with C#
+# Yandex-Domain-Api-C#
 
 Yandex Domain Api Documentation:
 https://tech.yandex.com.tr/kurum/doc/about-docpage/
